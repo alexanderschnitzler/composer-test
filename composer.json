@@ -1,0 +1,14 @@
+{
+  "name": "schnitzler/composer-test",
+  "type": "typo3-cms-extension",
+  "description": "",
+  "license": ["GPL-2.0+"],
+  "require": {
+    "roave/better-reflection": "*"
+  },
+  "config": {
+    "platform": {
+      "php": "7.2.0"
+    }
+  }
+}
